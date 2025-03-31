@@ -48,13 +48,13 @@ PathwayHierarchyGenerator/
 │   └── output/                        # Directory for generated outputs
 └── examples/                          # Example input/output files for reference
     ├── input_examples/                # Sample CSV files illustrating input structure
-    │   ├── example_GO_input.csv
-    │   ├── example_KEGG_input.csv
-    │   └── example_REAC_input.csv
+    │   ├── example_GO_BP_modules.csv
+    │   ├── example_KEGG_modules.csv
+    │   └── example_REAC_modules.csv
     └── output_examples/               # Corresponding outputs from each script
-        ├── example_GO_output.csv
-        ├── example_KEGG_output.csv
-        └── example_REAC_output.csv
+        ├── example_GO_BP_modules_pathways_levels.csv
+        ├── example_KEGG_modules_pathways_levels.csv
+        └── example_REAC_modules_pathways_levels.csv
 ```
 ## Data Requirements
 
