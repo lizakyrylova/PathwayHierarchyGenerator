@@ -1,0 +1,1238 @@
+module,KEGG_ID,0_Level_Pathway,1_Level_Pathway,2_Level_Pathway
+K1_cpdb_1,hsa04974,Organismal Systems,Digestive system,Protein digestion and absorption
+K1_cpdb_11,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+K1_cpdb_12,hsa04975,Organismal Systems,Digestive system,Fat digestion and absorption
+K1_cpdb_15,hsa05320,Human Diseases,Immune disease,Autoimmune thyroid disease
+K1_cpdb_19,hsa00053,Metabolism,Carbohydrate metabolism,Ascorbate and aldarate metabolism
+K1_cpdb_23,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+K1_cpdb_24,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+K1_cpdb_28,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_cpdb_29,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+K1_cpdb_30,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+K1_cpdb_37,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+K1_cpdb_39,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+K1_cpdb_41,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+K1_cpdb_42,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+K1_cpdb_43,hsa05218,Human Diseases,Cancer: specific types,Melanoma
+K1_cpdb_47,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+K1_cpdb_49,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+K1_cpdb_52,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_cpdb_56,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+K1_cpdb_59,hsa05320,Human Diseases,Immune disease,Autoimmune thyroid disease
+K1_cpdb_60,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+K1_cpdb_61,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+K1_cpdb_62,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_cpdb_78,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+K1_cpdb_85,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_cpdb_121,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+K1_cpdb_158,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+K1_cpdb_181,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_cpdb_219,hsa00053,Metabolism,Carbohydrate metabolism,Ascorbate and aldarate metabolism
+K1_cpdb_230,hsa04670,Organismal Systems,Immune system,Leukocyte transendothelial migration
+K1_cpdb_248,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+K1_cpdb_251,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+K1_cpdb_270,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+K1_cpdb_278,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_cpdb_288,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+K1_cpdb_322,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_cpdb_327,hsa05032,Human Diseases,Substance dependence,Morphine addiction
+K1_cpdb_328,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_cpdb_364,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_cpdb_377,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+K1_cpdb_425,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+K1_cpdb_428,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+K1_cpdb_440,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_cpdb_443,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_cpdb_446,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+K1_cpdb_448,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_cpdb_453,hsa05203,Human Diseases,Cancer: overview,Viral carcinogenesis
+K1_cpdb_454,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_cpdb_474,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+K1_cpdb_480,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_cpdb_483,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_cpdb_493,hsa04914,Organismal Systems,Endocrine system,Progesterone-mediated oocyte maturation
+K1_cpdb_497,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+K1_cpdb_502,hsa04978,Organismal Systems,Digestive system,Mineral absorption
+K1_cpdb_503,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+K1_cpdb_504,hsa00785,Metabolism,Metabolism of cofactors and vitamins,Lipoic acid metabolism
+K1_cpdb_523,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_cpdb_525,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_cpdb_528,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+K1_cpdb_533,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+K1_cpdb_549,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_cpdb_550,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_cpdb_551,hsa00140,Metabolism,Lipid metabolism,Steroid hormone biosynthesis
+K1_cpdb_574,hsa04140,Cellular Processes,Transport and catabolism,Autophagy - animal
+K1_cpdb_595,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_cpdb_598,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_cpdb_599,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+K1_cpdb_601,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+K1_cpdb_613,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_cpdb_630,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_cpdb_634,hsa04921,Organismal Systems,Endocrine system,Oxytocin signaling pathway
+K1_cpdb_635,hsa04068,Environmental Information Processing,Signal transduction,FoxO signaling pathway
+K1_cpdb_636,hsa04664,Organismal Systems,Immune system,Fc epsilon RI signaling pathway
+K1_cpdb_637,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+K1_cpdb_660,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_cpdb_662,hsa01230,,,Biosynthesis of amino acids
+K1_cpdb_669,hsa05130,Human Diseases,Infectious disease: bacterial,Pathogenic Escherichia coli infection
+K1_cpdb_677,hsa04012,Environmental Information Processing,Signal transduction,ErbB signaling pathway
+K1_cpdb_678,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+K1_cpdb_679,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+K1_cpdb_687,hsa00514,Metabolism,Glycan biosynthesis and metabolism,Other types of O-glycan biosynthesis
+K1_cpdb_698,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_cpdb_699,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_cpdb_700,hsa00040,Metabolism,Carbohydrate metabolism,Pentose and glucuronate interconversions
+K1_cpdb_708,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+K1_cpdb_717,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+K1_cpdb_718,hsa01521,Human Diseases,Drug resistance: antineoplastic,EGFR tyrosine kinase inhibitor resistance
+K1_cpdb_719,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+K1_cpdb_720,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+K1_cpdb_721,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+K1_cpdb_737,hsa05100,Human Diseases,Infectious disease: bacterial,Bacterial invasion of epithelial cells
+K1_cpdb_745,hsa04261,Organismal Systems,Circulatory system,Adrenergic signaling in cardiomyocytes
+K1_cpdb_756,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+K1_cpdb_757,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+K1_cpdb_758,hsa04270,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+K1_cpdb_768,hsa04072,Environmental Information Processing,Signal transduction,Phospholipase D signaling pathway
+K1_cpdb_769,hsa05418,Human Diseases,Cardiovascular disease,Fluid shear stress and atherosclerosis
+K1_cpdb_780,hsa01250,,,Biosynthesis of nucleotide sugars
+K1_cpdb_781,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_cpdb_789,hsa04666,Organismal Systems,Immune system,Fc gamma R-mediated phagocytosis
+K1_cpdb_804,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+K1_cpdb_807,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_cpdb_811,hsa04961,Organismal Systems,Excretory system,Endocrine and other factor-regulated calcium reabsorption
+K1_cpdb_812,hsa04668,Environmental Information Processing,Signal transduction,TNF signaling pathway
+K1_cpdb_824,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_cpdb_827,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+K1_cpdb_832,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+K1_cpdb_844,hsa05100,Human Diseases,Infectious disease: bacterial,Bacterial invasion of epithelial cells
+K1_cpdb_845,hsa05166,Human Diseases,Infectious disease: viral,Human T-cell leukemia virus 1 infection
+K1_cpdb_847,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+K1_cpdb_848,hsa03430,Genetic Information Processing,Replication and repair,Mismatch repair
+K1_cpdb_856,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_cpdb_859,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+K1_cpdb_867,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_cpdb_877,hsa03420,Genetic Information Processing,Replication and repair,Nucleotide excision repair
+K1_cpdb_881,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+K1_cpdb_882,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+K1_humanbase_23,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+K1_humanbase_34,hsa00232,Metabolism,Biosynthesis of other secondary metabolites,Caffeine metabolism
+K1_humanbase_38,hsa04972,Organismal Systems,Digestive system,Pancreatic secretion
+K1_humanbase_71,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+K1_humanbase_72,hsa00601,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - lacto and neolacto series
+K1_humanbase_79,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+K1_humanbase_83,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+K1_humanbase_123,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_humanbase_138,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+K1_humanbase_147,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_humanbase_149,hsa04071,Environmental Information Processing,Signal transduction,Sphingolipid signaling pathway
+K1_humanbase_163,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+K1_humanbase_164,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+K1_humanbase_173,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+K1_humanbase_182,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+K1_humanbase_186,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_humanbase_192,hsa05012,Human Diseases,Neurodegenerative disease,Parkinson disease
+K1_humanbase_193,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_humanbase_196,hsa04668,Environmental Information Processing,Signal transduction,TNF signaling pathway
+K1_humanbase_206,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+K1_humanbase_212,hsa05135,Human Diseases,Infectious disease: bacterial,Yersinia infection
+K1_humanbase_218,hsa01230,,,Biosynthesis of amino acids
+K1_humanbase_223,hsa04216,Cellular Processes,Cell growth and death,Ferroptosis
+K1_humanbase_234,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+K1_humanbase_261,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_humanbase_281,hsa05150,Human Diseases,Infectious disease: bacterial,Staphylococcus aureus infection
+K1_humanbase_286,hsa05204,Human Diseases,Cancer: overview,Chemical carcinogenesis - DNA adducts
+K1_humanbase_314,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+K1_humanbase_319,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_humanbase_322,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_humanbase_323,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_humanbase_330,hsa04974,Organismal Systems,Digestive system,Protein digestion and absorption
+K1_humanbase_331,hsa05205,Human Diseases,Cancer: overview,Proteoglycans in cancer
+K1_humanbase_349,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_humanbase_350,hsa05150,Human Diseases,Infectious disease: bacterial,Staphylococcus aureus infection
+K1_humanbase_351,hsa04640,Organismal Systems,Immune system,Hematopoietic cell lineage
+K1_humanbase_370,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_humanbase_371,hsa00052,Metabolism,Carbohydrate metabolism,Galactose metabolism
+K1_humanbase_397,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_humanbase_532,hsa04062,Organismal Systems,Immune system,Chemokine signaling pathway
+K1_humanbase_541,hsa04916,Organismal Systems,Endocrine system,Melanogenesis
+K1_string_8,hsa00053,Metabolism,Carbohydrate metabolism,Ascorbate and aldarate metabolism
+K1_string_10,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+K1_string_12,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+K1_string_14,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+K1_string_17,hsa00561,Metabolism,Lipid metabolism,Glycerolipid metabolism
+K1_string_19,hsa00512,Metabolism,Glycan biosynthesis and metabolism,Mucin type O-glycan biosynthesis
+K1_string_21,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+K1_string_22,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+K1_string_23,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+K1_string_24,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_string_28,hsa03008,Genetic Information Processing,Translation,Ribosome biogenesis in eukaryotes
+K1_string_29,hsa00601,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - lacto and neolacto series
+K1_string_31,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_string_33,hsa04964,Organismal Systems,Excretory system,Proximal tubule bicarbonate reclamation
+K1_string_35,hsa00565,Metabolism,Lipid metabolism,Ether lipid metabolism
+K1_string_36,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+K1_string_38,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+K1_string_39,hsa04974,Organismal Systems,Digestive system,Protein digestion and absorption
+K1_string_43,hsa00230,Metabolism,Nucleotide metabolism,Purine metabolism
+K1_string_46,hsa00100,Metabolism,Lipid metabolism,Steroid biosynthesis
+K1_string_47,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+K1_string_48,hsa00562,Metabolism,Carbohydrate metabolism,Inositol phosphate metabolism
+K1_string_51,hsa04725,Organismal Systems,Nervous system,Cholinergic synapse
+K1_string_52,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+K1_string_53,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+K1_string_54,hsa05332,Human Diseases,Immune disease,Graft-versus-host disease
+K1_string_57,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+K1_string_58,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+K1_string_60,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+K1_string_61,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+K1_string_62,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_string_67,hsa00230,Metabolism,Nucleotide metabolism,Purine metabolism
+K1_string_68,hsa04744,Organismal Systems,Sensory system,Phototransduction
+K1_string_69,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_string_70,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+K1_string_84,hsa00310,Metabolism,Amino acid metabolism,Lysine degradation
+K1_string_85,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+K1_string_94,hsa00512,Metabolism,Glycan biosynthesis and metabolism,Mucin type O-glycan biosynthesis
+K1_string_134,hsa00061,Metabolism,Lipid metabolism,Fatty acid biosynthesis
+K1_string_141,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+K1_string_143,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+K1_string_144,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_string_145,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+K1_string_146,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+K1_string_150,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_string_151,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+K1_string_153,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+K1_string_157,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_string_163,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_164,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+K1_string_168,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+K1_string_170,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+K1_string_172,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+K1_string_173,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+K1_string_174,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+K1_string_177,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_178,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_179,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_string_180,hsa04730,Organismal Systems,Nervous system,Long-term depression
+K1_string_181,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_string_182,hsa04714,Organismal Systems,Environmental adaptation,Thermogenesis
+K1_string_185,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+K1_string_186,hsa00140,Metabolism,Lipid metabolism,Steroid hormone biosynthesis
+K1_string_187,hsa00650,Metabolism,Carbohydrate metabolism,Butanoate metabolism
+K1_string_188,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_189,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_string_191,hsa05226,Human Diseases,Cancer: specific types,Gastric cancer
+K1_string_192,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+K1_string_204,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+K1_string_206,hsa04657,Organismal Systems,Immune system,IL-17 signaling pathway
+K1_string_257,hsa04540,Cellular Processes,Cellular community - eukaryotes,Gap junction
+K1_string_258,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_string_259,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_string_261,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+K1_string_262,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_268,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+K1_string_270,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+K1_string_272,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+K1_string_273,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+K1_string_274,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+K1_string_275,hsa00510,Metabolism,Glycan biosynthesis and metabolism,N-Glycan biosynthesis
+K1_string_277,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_string_279,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+K1_string_284,hsa05416,Human Diseases,Cardiovascular disease,Viral myocarditis
+K1_string_285,hsa04750,Organismal Systems,Sensory system,Inflammatory mediator regulation of TRP channels
+K1_string_292,hsa04218,Cellular Processes,Cell growth and death,Cellular senescence
+K1_string_297,hsa00562,Metabolism,Carbohydrate metabolism,Inositol phosphate metabolism
+K1_string_326,hsa04931,Human Diseases,Endocrine and metabolic disease,Insulin resistance
+K1_string_328,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+K1_string_338,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+K1_string_342,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+K1_string_343,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+K1_string_345,hsa04137,Cellular Processes,Transport and catabolism,Mitophagy - animal
+K1_string_347,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+K1_string_348,hsa04814,Cellular Processes,Cell motility,Motor proteins
+K1_string_356,hsa03450,Genetic Information Processing,Replication and repair,Non-homologous end-joining
+K1_string_359,hsa04720,Organismal Systems,Nervous system,Long-term potentiation
+K1_string_360,hsa04152,Environmental Information Processing,Signal transduction,AMPK signaling pathway
+K1_string_365,hsa00620,Metabolism,Carbohydrate metabolism,Pyruvate metabolism
+K1_string_367,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_string_368,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_string_369,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_string_378,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+K1_string_379,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+K1_string_380,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+K1_string_391,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+K1_string_403,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_string_407,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+K1_string_409,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_string_410,hsa00590,Metabolism,Lipid metabolism,Arachidonic acid metabolism
+K1_string_417,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_string_423,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+K1_string_426,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+K1_string_427,hsa05216,Human Diseases,Cancer: specific types,Thyroid cancer
+K1_string_428,hsa04022,Environmental Information Processing,Signal transduction,cGMP-PKG signaling pathway
+K1_string_435,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+K1_string_436,hsa03430,Genetic Information Processing,Replication and repair,Mismatch repair
+K1_string_438,hsa04014,Environmental Information Processing,Signal transduction,Ras signaling pathway
+K1_string_439,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+K1_string_441,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+K1_string_443,hsa01210,,,2-Oxocarboxylic acid metabolism
+K1_string_447,hsa04721,Organismal Systems,Nervous system,Synaptic vesicle cycle
+K1_string_451,hsa05416,Human Diseases,Cardiovascular disease,Viral myocarditis
+K1_string_452,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_string_455,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+K1_string_456,hsa05210,Human Diseases,Cancer: specific types,Colorectal cancer
+K1_string_457,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+K1_string_458,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+K1_string_485,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+K1_string_491,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_495,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_string_496,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+K1_string_497,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+K1_string_499,hsa04148,Cellular Processes,Transport and catabolism,Efferocytosis
+K1_string_507,hsa00240,Metabolism,Nucleotide metabolism,Pyrimidine metabolism
+K1_string_509,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+K1_string_512,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+K1_string_514,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+K1_string_515,hsa05202,Human Diseases,Cancer: overview,Transcriptional misregulation in cancer
+K1_string_517,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+K1_string_518,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+K1_string_527,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+K1_string_535,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+K1_string_536,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_string_547,hsa01040,Metabolism,Lipid metabolism,Biosynthesis of unsaturated fatty acids
+K1_string_550,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+K1_string_556,hsa05135,Human Diseases,Infectious disease: bacterial,Yersinia infection
+K1_string_557,hsa04960,Organismal Systems,Excretory system,Aldosterone-regulated sodium reabsorption
+K1_string_558,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_567,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+K1_string_568,hsa05031,Human Diseases,Substance dependence,Amphetamine addiction
+K1_string_569,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+K1_string_570,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+K1_string_596,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_597,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+K1_string_599,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_602,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+K1_string_603,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+K1_string_612,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+K1_string_630,hsa04750,Organismal Systems,Sensory system,Inflammatory mediator regulation of TRP channels
+K1_string_638,hsa04977,Organismal Systems,Digestive system,Vitamin digestion and absorption
+K1_string_639,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_640,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_643,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+K1_string_646,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+K1_string_654,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+K1_string_664,hsa01230,,,Biosynthesis of amino acids
+K1_string_673,hsa04140,Cellular Processes,Transport and catabolism,Autophagy - animal
+K1_string_682,hsa00524,Metabolism,Biosynthesis of other secondary metabolites,"Neomycin, kanamycin and gentamicin biosynthesis"
+K1_string_687,hsa05202,Human Diseases,Cancer: overview,Transcriptional misregulation in cancer
+K1_string_692,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_string_697,hsa03410,Genetic Information Processing,Replication and repair,Base excision repair
+K1_string_707,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+K1_string_711,hsa00790,Metabolism,Metabolism of cofactors and vitamins,Folate biosynthesis
+K1_string_716,hsa04625,Organismal Systems,Immune system,C-type lectin receptor signaling pathway
+K1_string_724,hsa00785,Metabolism,Metabolism of cofactors and vitamins,Lipoic acid metabolism
+K1_string_726,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+K1_string_728,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+K1_string_734,hsa00650,Metabolism,Carbohydrate metabolism,Butanoate metabolism
+K1_string_736,hsa00532,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+K1_string_741,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+K1_string_744,hsa04270,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+K1_string_753,hsa00534,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+K1_string_758,hsa00514,Metabolism,Glycan biosynthesis and metabolism,Other types of O-glycan biosynthesis
+K1_string_763,hsa00010,Metabolism,Carbohydrate metabolism,Glycolysis / Gluconeogenesis
+K1_string_764,hsa04926,Organismal Systems,Endocrine system,Relaxin signaling pathway
+K1_string_771,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+K1_string_778,hsa00620,Metabolism,Carbohydrate metabolism,Pyruvate metabolism
+K1_string_788,hsa04260,Organismal Systems,Circulatory system,Cardiac muscle contraction
+K1_string_804,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+K1_string_807,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+K1_string_815,hsa00601,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - lacto and neolacto series
+K1_string_816,hsa04923,Organismal Systems,Endocrine system,Regulation of lipolysis in adipocytes
+K1_string_819,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+K1_string_822,hsa00534,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+K1_string_823,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+K1_string_849,hsa04020,Environmental Information Processing,Signal transduction,Calcium signaling pathway
+K1_string_851,hsa04742,Organismal Systems,Sensory system,Taste transduction
+K1_string_862,hsa00604,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - ganglio series
+K1_string_870,hsa00601,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - lacto and neolacto series
+M1_cpdb_3,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_4,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+M1_cpdb_6,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+M1_cpdb_8,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_cpdb_10,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_cpdb_11,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+M1_cpdb_12,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_cpdb_14,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+M1_cpdb_15,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+M1_cpdb_17,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_20,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+M1_cpdb_21,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_cpdb_22,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_24,hsa01522,Human Diseases,Drug resistance: antineoplastic,Endocrine resistance
+M1_cpdb_25,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+M1_cpdb_28,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+M1_cpdb_29,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+M1_cpdb_34,hsa01240,,,Biosynthesis of cofactors
+M1_cpdb_35,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_cpdb_36,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_cpdb_37,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_cpdb_39,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+M1_cpdb_40,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+M1_cpdb_41,hsa00230,Metabolism,Nucleotide metabolism,Purine metabolism
+M1_cpdb_45,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+M1_cpdb_46,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+M1_cpdb_47,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+M1_cpdb_48,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_cpdb_52,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+M1_cpdb_55,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+M1_cpdb_57,hsa04012,Environmental Information Processing,Signal transduction,ErbB signaling pathway
+M1_cpdb_58,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+M1_cpdb_59,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+M1_cpdb_61,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+M1_cpdb_63,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+M1_cpdb_64,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+M1_cpdb_66,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+M1_cpdb_68,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+M1_cpdb_71,hsa00592,Metabolism,Lipid metabolism,alpha-Linolenic acid metabolism
+M1_cpdb_73,hsa05031,Human Diseases,Substance dependence,Amphetamine addiction
+M1_cpdb_74,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+M1_cpdb_75,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+M1_cpdb_78,hsa05213,Human Diseases,Cancer: specific types,Endometrial cancer
+M1_cpdb_79,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+M1_cpdb_85,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_cpdb_87,hsa04114,Cellular Processes,Cell growth and death,Oocyte meiosis
+M1_cpdb_89,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+M1_cpdb_90,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_cpdb_91,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_cpdb_92,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_94,hsa03250,Genetic Information Processing,Information processing in viruses,Viral life cycle - HIV-1
+M1_cpdb_95,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_cpdb_99,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_cpdb_101,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_cpdb_102,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_cpdb_105,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+M1_cpdb_109,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+M1_cpdb_110,hsa03450,Genetic Information Processing,Replication and repair,Non-homologous end-joining
+M1_cpdb_112,hsa04910,Organismal Systems,Endocrine system,Insulin signaling pathway
+M1_cpdb_115,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_cpdb_117,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_cpdb_118,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+M1_cpdb_119,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_120,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+M1_cpdb_121,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+M1_cpdb_122,hsa00130,Metabolism,Metabolism of cofactors and vitamins,Ubiquinone and other terpenoid-quinone biosynthesis
+M1_cpdb_123,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+M1_cpdb_125,hsa05320,Human Diseases,Immune disease,Autoimmune thyroid disease
+M1_cpdb_126,hsa04218,Cellular Processes,Cell growth and death,Cellular senescence
+M1_cpdb_131,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_cpdb_132,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_cpdb_134,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_cpdb_137,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_138,hsa05130,Human Diseases,Infectious disease: bacterial,Pathogenic Escherichia coli infection
+M1_cpdb_139,hsa05218,Human Diseases,Cancer: specific types,Melanoma
+M1_cpdb_142,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+M1_cpdb_144,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_148,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+M1_cpdb_151,hsa04920,Organismal Systems,Endocrine system,Adipocytokine signaling pathway
+M1_cpdb_153,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+M1_cpdb_156,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+M1_cpdb_158,hsa04015,Environmental Information Processing,Signal transduction,Rap1 signaling pathway
+M1_cpdb_159,hsa05132,Human Diseases,Infectious disease: bacterial,Salmonella infection
+M1_cpdb_161,hsa05321,Human Diseases,Immune disease,Inflammatory bowel disease
+M1_cpdb_162,hsa01230,,,Biosynthesis of amino acids
+M1_cpdb_163,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+M1_cpdb_165,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+M1_cpdb_167,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_cpdb_168,hsa00561,Metabolism,Lipid metabolism,Glycerolipid metabolism
+M1_cpdb_169,hsa04122,Genetic Information Processing,"Folding, sorting and degradation",Sulfur relay system
+M1_cpdb_172,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+M1_cpdb_174,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_cpdb_177,hsa04668,Environmental Information Processing,Signal transduction,TNF signaling pathway
+M1_cpdb_179,hsa01200,,,Carbon metabolism
+M1_cpdb_182,hsa00900,Metabolism,Metabolism of terpenoids and polyketides,Terpenoid backbone biosynthesis
+M1_cpdb_184,hsa00450,Metabolism,Metabolism of other amino acids,Selenocompound metabolism
+M1_cpdb_187,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_cpdb_195,hsa00524,Metabolism,Biosynthesis of other secondary metabolites,"Neomycin, kanamycin and gentamicin biosynthesis"
+M1_cpdb_198,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+M1_cpdb_199,hsa04922,Organismal Systems,Endocrine system,Glucagon signaling pathway
+M1_cpdb_201,hsa04114,Cellular Processes,Cell growth and death,Oocyte meiosis
+M1_cpdb_202,hsa04970,Organismal Systems,Digestive system,Salivary secretion
+M1_cpdb_203,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+M1_cpdb_205,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_cpdb_211,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+M1_cpdb_212,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_cpdb_213,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+M1_cpdb_220,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+M1_cpdb_221,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_cpdb_223,hsa00533,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - keratan sulfate
+M1_cpdb_226,hsa04614,Organismal Systems,Endocrine system,Renin-angiotensin system
+M1_cpdb_229,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+M1_cpdb_230,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+M1_cpdb_238,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_cpdb_243,hsa00052,Metabolism,Carbohydrate metabolism,Galactose metabolism
+M1_cpdb_250,hsa04929,Organismal Systems,Endocrine system,GnRH secretion
+M1_cpdb_253,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_cpdb_255,hsa04660,Organismal Systems,Immune system,T cell receptor signaling pathway
+M1_cpdb_258,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+M1_cpdb_260,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+M1_cpdb_261,hsa04923,Organismal Systems,Endocrine system,Regulation of lipolysis in adipocytes
+M1_cpdb_262,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+M1_cpdb_270,hsa04260,Organismal Systems,Circulatory system,Cardiac muscle contraction
+M1_cpdb_271,hsa04657,Organismal Systems,Immune system,IL-17 signaling pathway
+M1_cpdb_273,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+M1_cpdb_279,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+M1_cpdb_282,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+M1_cpdb_288,hsa04918,Organismal Systems,Endocrine system,Thyroid hormone synthesis
+M1_cpdb_293,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+M1_cpdb_294,hsa00790,Metabolism,Metabolism of cofactors and vitamins,Folate biosynthesis
+M1_cpdb_295,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_296,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_298,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_cpdb_304,hsa04921,Organismal Systems,Endocrine system,Oxytocin signaling pathway
+M1_cpdb_309,hsa04950,Human Diseases,Endocrine and metabolic disease,Maturity onset diabetes of the young
+M1_cpdb_317,hsa04730,Organismal Systems,Nervous system,Long-term depression
+M1_cpdb_318,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_320,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+M1_cpdb_325,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_cpdb_327,hsa04961,Organismal Systems,Excretory system,Endocrine and other factor-regulated calcium reabsorption
+M1_cpdb_328,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_cpdb_333,hsa05340,Human Diseases,Immune disease,Primary immunodeficiency
+M1_cpdb_339,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_cpdb_344,hsa05330,Human Diseases,Immune disease,Allograft rejection
+M1_cpdb_348,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_cpdb_350,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+M1_cpdb_351,hsa04666,Organismal Systems,Immune system,Fc gamma R-mediated phagocytosis
+M1_cpdb_352,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+M1_cpdb_353,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+M1_cpdb_360,hsa05204,Human Diseases,Cancer: overview,Chemical carcinogenesis - DNA adducts
+M1_cpdb_365,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_cpdb_381,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+M1_cpdb_382,hsa04666,Organismal Systems,Immune system,Fc gamma R-mediated phagocytosis
+M1_cpdb_384,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_cpdb_390,hsa04972,Organismal Systems,Digestive system,Pancreatic secretion
+M1_cpdb_402,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_cpdb_403,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_cpdb_404,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+M1_cpdb_409,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_cpdb_410,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+M1_cpdb_419,hsa00360,Metabolism,Amino acid metabolism,Phenylalanine metabolism
+M1_cpdb_440,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+M1_cpdb_441,hsa04218,Cellular Processes,Cell growth and death,Cellular senescence
+M1_cpdb_442,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+M1_cpdb_444,hsa04510,Cellular Processes,Cellular community - eukaryotes,Focal adhesion
+M1_cpdb_446,hsa04744,Organismal Systems,Sensory system,Phototransduction
+M1_cpdb_456,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_cpdb_475,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+M1_cpdb_479,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_cpdb_481,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_cpdb_486,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_cpdb_488,hsa00051,Metabolism,Carbohydrate metabolism,Fructose and mannose metabolism
+M1_cpdb_499,hsa03430,Genetic Information Processing,Replication and repair,Mismatch repair
+M1_cpdb_506,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+M1_cpdb_518,hsa05226,Human Diseases,Cancer: specific types,Gastric cancer
+M1_cpdb_519,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+M1_cpdb_530,hsa04975,Organismal Systems,Digestive system,Fat digestion and absorption
+M1_cpdb_538,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_cpdb_544,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+M1_cpdb_556,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+M1_cpdb_559,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_cpdb_560,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_cpdb_562,hsa01230,,,Biosynthesis of amino acids
+M1_cpdb_573,hsa00564,Metabolism,Lipid metabolism,Glycerophospholipid metabolism
+M1_cpdb_604,hsa04066,Environmental Information Processing,Signal transduction,HIF-1 signaling pathway
+M1_cpdb_611,hsa04926,Organismal Systems,Endocrine system,Relaxin signaling pathway
+M1_cpdb_635,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+M1_cpdb_660,hsa00053,Metabolism,Carbohydrate metabolism,Ascorbate and aldarate metabolism
+M1_cpdb_683,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_cpdb_684,hsa01210,,,2-Oxocarboxylic acid metabolism
+M1_humanbase_1,hsa04612,Organismal Systems,Immune system,Antigen processing and presentation
+M1_humanbase_2,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+M1_humanbase_3,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+M1_humanbase_5,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_humanbase_8,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+M1_humanbase_10,hsa04657,Organismal Systems,Immune system,IL-17 signaling pathway
+M1_humanbase_11,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_humanbase_12,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+M1_humanbase_15,hsa05160,Human Diseases,Infectious disease: viral,Hepatitis C
+M1_humanbase_17,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_humanbase_24,hsa05235,Human Diseases,Cancer: overview,PD-L1 expression and PD-1 checkpoint pathway in cancer
+M1_humanbase_25,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_humanbase_26,hsa05130,Human Diseases,Infectious disease: bacterial,Pathogenic Escherichia coli infection
+M1_humanbase_31,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_humanbase_34,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+M1_humanbase_39,hsa05310,Human Diseases,Immune disease,Asthma
+M1_humanbase_41,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+M1_humanbase_53,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+M1_humanbase_72,hsa05146,Human Diseases,Infectious disease: parasitic,Amoebiasis
+M1_humanbase_82,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+M1_humanbase_88,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+M1_humanbase_98,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+M1_humanbase_100,hsa04062,Organismal Systems,Immune system,Chemokine signaling pathway
+M1_humanbase_102,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+M1_humanbase_121,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+M1_humanbase_130,hsa04140,Cellular Processes,Transport and catabolism,Autophagy - animal
+M1_humanbase_132,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+M1_humanbase_149,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+M1_humanbase_157,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_humanbase_164,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+M1_humanbase_176,hsa00514,Metabolism,Glycan biosynthesis and metabolism,Other types of O-glycan biosynthesis
+M1_humanbase_179,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+M1_humanbase_210,hsa05130,Human Diseases,Infectious disease: bacterial,Pathogenic Escherichia coli infection
+M1_humanbase_233,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_humanbase_274,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+M1_humanbase_278,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_humanbase_290,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+M1_humanbase_320,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_humanbase_331,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+M1_humanbase_332,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+M1_humanbase_343,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+M1_humanbase_376,hsa05220,Human Diseases,Cancer: specific types,Chronic myeloid leukemia
+M1_humanbase_385,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_humanbase_388,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+M1_humanbase_389,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_humanbase_398,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_humanbase_418,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+M1_humanbase_444,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_humanbase_452,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+M1_humanbase_480,hsa04012,Environmental Information Processing,Signal transduction,ErbB signaling pathway
+M1_humanbase_494,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+M1_humanbase_535,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+M1_humanbase_575,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+M1_humanbase_578,hsa04658,Organismal Systems,Immune system,Th1 and Th2 cell differentiation
+M1_humanbase_594,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+M1_humanbase_605,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_string_1,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+M1_string_5,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+M1_string_6,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_string_7,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+M1_string_8,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+M1_string_10,hsa03008,Genetic Information Processing,Translation,Ribosome biogenesis in eukaryotes
+M1_string_11,hsa00561,Metabolism,Lipid metabolism,Glycerolipid metabolism
+M1_string_12,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+M1_string_13,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+M1_string_15,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_string_17,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+M1_string_18,hsa00250,Metabolism,Amino acid metabolism,"Alanine, aspartate and glutamate metabolism"
+M1_string_19,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_string_23,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_string_24,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_string_26,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_string_27,hsa00562,Metabolism,Carbohydrate metabolism,Inositol phosphate metabolism
+M1_string_28,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+M1_string_29,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_string_30,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+M1_string_31,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+M1_string_32,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+M1_string_33,hsa00140,Metabolism,Lipid metabolism,Steroid hormone biosynthesis
+M1_string_35,hsa00565,Metabolism,Lipid metabolism,Ether lipid metabolism
+M1_string_38,hsa00230,Metabolism,Nucleotide metabolism,Purine metabolism
+M1_string_39,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+M1_string_40,hsa00071,Metabolism,Lipid metabolism,Fatty acid degradation
+M1_string_42,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+M1_string_43,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+M1_string_44,hsa04960,Organismal Systems,Excretory system,Aldosterone-regulated sodium reabsorption
+M1_string_46,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_string_47,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+M1_string_48,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_string_49,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_string_50,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_string_51,hsa05032,Human Diseases,Substance dependence,Morphine addiction
+M1_string_52,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_string_55,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+M1_string_56,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+M1_string_57,hsa05030,Human Diseases,Substance dependence,Cocaine addiction
+M1_string_58,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+M1_string_62,hsa04612,Organismal Systems,Immune system,Antigen processing and presentation
+M1_string_63,hsa04540,Cellular Processes,Cellular community - eukaryotes,Gap junction
+M1_string_64,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_string_66,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_string_67,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+M1_string_69,hsa04260,Organismal Systems,Circulatory system,Cardiac muscle contraction
+M1_string_71,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+M1_string_72,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+M1_string_75,hsa04115,Cellular Processes,Cell growth and death,p53 signaling pathway
+M1_string_76,hsa01200,,,Carbon metabolism
+M1_string_77,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+M1_string_79,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+M1_string_80,hsa05218,Human Diseases,Cancer: specific types,Melanoma
+M1_string_81,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+M1_string_86,hsa04611,Organismal Systems,Immune system,Platelet activation
+M1_string_87,hsa01232,,,Nucleotide metabolism
+M1_string_88,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+M1_string_90,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_string_92,hsa00500,Metabolism,Carbohydrate metabolism,Starch and sucrose metabolism
+M1_string_98,hsa00062,Metabolism,Lipid metabolism,Fatty acid elongation
+M1_string_99,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+M1_string_103,hsa00533,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - keratan sulfate
+M1_string_104,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_string_105,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_string_106,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+M1_string_107,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+M1_string_111,hsa04974,Organismal Systems,Digestive system,Protein digestion and absorption
+M1_string_113,hsa05100,Human Diseases,Infectious disease: bacterial,Bacterial invasion of epithelial cells
+M1_string_115,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+M1_string_117,hsa00630,Metabolism,Carbohydrate metabolism,Glyoxylate and dicarboxylate metabolism
+M1_string_120,hsa04921,Organismal Systems,Endocrine system,Oxytocin signaling pathway
+M1_string_121,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_string_122,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+M1_string_123,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+M1_string_124,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+M1_string_125,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+M1_string_126,hsa03450,Genetic Information Processing,Replication and repair,Non-homologous end-joining
+M1_string_127,hsa04659,Organismal Systems,Immune system,Th17 cell differentiation
+M1_string_128,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+M1_string_129,hsa05130,Human Diseases,Infectious disease: bacterial,Pathogenic Escherichia coli infection
+M1_string_130,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+M1_string_132,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+M1_string_133,hsa00531,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan degradation
+M1_string_136,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+M1_string_137,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+M1_string_138,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+M1_string_141,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_string_142,hsa04064,Environmental Information Processing,Signal transduction,NF-kappa B signaling pathway
+M1_string_143,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+M1_string_145,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+M1_string_146,hsa03010,Genetic Information Processing,Translation,Ribosome
+M1_string_147,hsa04730,Organismal Systems,Nervous system,Long-term depression
+M1_string_151,hsa00520,Metabolism,Glycan biosynthesis and metabolism,Amino sugar and nucleotide sugar metabolism
+M1_string_154,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+M1_string_156,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+M1_string_161,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+M1_string_162,hsa05202,Human Diseases,Cancer: overview,Transcriptional misregulation in cancer
+M1_string_164,hsa04510,Cellular Processes,Cellular community - eukaryotes,Focal adhesion
+M1_string_165,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+M1_string_167,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+M1_string_170,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+M1_string_172,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+M1_string_173,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+M1_string_175,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_string_176,hsa00512,Metabolism,Glycan biosynthesis and metabolism,Mucin type O-glycan biosynthesis
+M1_string_177,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_string_179,hsa00100,Metabolism,Lipid metabolism,Steroid biosynthesis
+M1_string_180,hsa03264,Genetic Information Processing,Information processing in viruses,Virion - Flavivirus and Alphavirus
+M1_string_181,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_string_182,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_string_184,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+M1_string_185,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+M1_string_189,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+M1_string_190,hsa04721,Organismal Systems,Nervous system,Synaptic vesicle cycle
+M1_string_191,hsa05020,Human Diseases,Neurodegenerative disease,Prion disease
+M1_string_193,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+M1_string_195,hsa00270,Metabolism,Amino acid metabolism,Cysteine and methionine metabolism
+M1_string_196,hsa03008,Genetic Information Processing,Translation,Ribosome biogenesis in eukaryotes
+M1_string_199,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+M1_string_200,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+M1_string_202,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_string_204,hsa00061,Metabolism,Lipid metabolism,Fatty acid biosynthesis
+M1_string_205,hsa04012,Environmental Information Processing,Signal transduction,ErbB signaling pathway
+M1_string_209,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_210,hsa05150,Human Diseases,Infectious disease: bacterial,Staphylococcus aureus infection
+M1_string_216,hsa00270,Metabolism,Amino acid metabolism,Cysteine and methionine metabolism
+M1_string_217,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+M1_string_219,hsa00785,Metabolism,Metabolism of cofactors and vitamins,Lipoic acid metabolism
+M1_string_225,hsa04814,Cellular Processes,Cell motility,Motor proteins
+M1_string_226,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_229,hsa04978,Organismal Systems,Digestive system,Mineral absorption
+M1_string_231,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+M1_string_236,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_237,hsa05340,Human Diseases,Immune disease,Primary immunodeficiency
+M1_string_238,hsa04014,Environmental Information Processing,Signal transduction,Ras signaling pathway
+M1_string_240,hsa00240,Metabolism,Nucleotide metabolism,Pyrimidine metabolism
+M1_string_242,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_string_247,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_248,hsa03410,Genetic Information Processing,Replication and repair,Base excision repair
+M1_string_249,hsa04917,Organismal Systems,Endocrine system,Prolactin signaling pathway
+M1_string_250,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_254,hsa04750,Organismal Systems,Sensory system,Inflammatory mediator regulation of TRP channels
+M1_string_259,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+M1_string_271,hsa04923,Organismal Systems,Endocrine system,Regulation of lipolysis in adipocytes
+M1_string_273,hsa05203,Human Diseases,Cancer: overview,Viral carcinogenesis
+M1_string_275,hsa05416,Human Diseases,Cardiovascular disease,Viral myocarditis
+M1_string_276,hsa00670,Metabolism,Metabolism of cofactors and vitamins,One carbon pool by folate
+M1_string_279,hsa04024,Environmental Information Processing,Signal transduction,cAMP signaling pathway
+M1_string_294,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+M1_string_306,hsa00532,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+M1_string_312,hsa04510,Cellular Processes,Cellular community - eukaryotes,Focal adhesion
+M1_string_326,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+M1_string_334,hsa03320,Organismal Systems,Endocrine system,PPAR signaling pathway
+M1_string_335,hsa00620,Metabolism,Carbohydrate metabolism,Pyruvate metabolism
+M1_string_336,hsa04972,Organismal Systems,Digestive system,Pancreatic secretion
+M1_string_338,hsa04926,Organismal Systems,Endocrine system,Relaxin signaling pathway
+M1_string_341,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+M1_string_345,hsa04020,Environmental Information Processing,Signal transduction,Calcium signaling pathway
+M1_string_346,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+M1_string_347,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_351,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_string_363,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+M1_string_364,hsa04910,Organismal Systems,Endocrine system,Insulin signaling pathway
+M1_string_367,hsa04020,Environmental Information Processing,Signal transduction,Calcium signaling pathway
+M1_string_369,hsa04750,Organismal Systems,Sensory system,Inflammatory mediator regulation of TRP channels
+M1_string_371,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_381,hsa00534,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+M1_string_382,hsa00910,Metabolism,Energy metabolism,Nitrogen metabolism
+M1_string_383,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+M1_string_384,hsa04371,Environmental Information Processing,Signal transduction,Apelin signaling pathway
+M1_string_387,hsa04657,Organismal Systems,Immune system,IL-17 signaling pathway
+M1_string_398,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+M1_string_411,hsa03420,Genetic Information Processing,Replication and repair,Nucleotide excision repair
+M1_string_419,hsa04977,Organismal Systems,Digestive system,Vitamin digestion and absorption
+M1_string_420,hsa00532,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+M1_string_425,hsa01523,Human Diseases,Drug resistance: antineoplastic,Antifolate resistance
+M1_string_433,hsa04115,Cellular Processes,Cell growth and death,p53 signaling pathway
+M1_string_435,hsa04213,Organismal Systems,Aging,Longevity regulating pathway - multiple species
+M1_string_437,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+M1_string_440,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+M1_string_448,hsa04920,Organismal Systems,Endocrine system,Adipocytokine signaling pathway
+M1_string_455,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+M1_string_459,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_string_462,hsa00310,Metabolism,Amino acid metabolism,Lysine degradation
+M1_string_464,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_475,hsa04744,Organismal Systems,Sensory system,Phototransduction
+M1_string_476,hsa00220,Metabolism,Amino acid metabolism,Arginine biosynthesis
+M1_string_477,hsa04122,Genetic Information Processing,"Folding, sorting and degradation",Sulfur relay system
+M1_string_478,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+M1_string_480,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+M1_string_485,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_486,hsa04270,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+M1_string_491,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_string_492,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_string_495,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+M1_string_505,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_507,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+M1_string_511,hsa00604,Metabolism,Glycan biosynthesis and metabolism,Glycosphingolipid biosynthesis - ganglio series
+M1_string_513,hsa00860,Metabolism,Metabolism of cofactors and vitamins,Porphyrin metabolism
+M1_string_514,hsa00790,Metabolism,Metabolism of cofactors and vitamins,Folate biosynthesis
+M1_string_520,hsa00430,Metabolism,Metabolism of other amino acids,Taurine and hypotaurine metabolism
+M1_string_527,hsa04270,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+M1_string_530,hsa04720,Organismal Systems,Nervous system,Long-term potentiation
+M1_string_531,hsa00052,Metabolism,Carbohydrate metabolism,Galactose metabolism
+M1_string_545,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+M1_string_546,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+M1_string_547,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_548,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+M1_string_551,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+M1_string_568,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+M1_string_571,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+M1_string_573,hsa05219,Human Diseases,Cancer: specific types,Bladder cancer
+M1_string_600,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+M1_string_611,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_string_612,hsa00830,Metabolism,Metabolism of cofactors and vitamins,Retinol metabolism
+M1_string_616,hsa04640,Organismal Systems,Immune system,Hematopoietic cell lineage
+M1_string_625,hsa00730,Metabolism,Metabolism of cofactors and vitamins,Thiamine metabolism
+M1_string_636,hsa03410,Genetic Information Processing,Replication and repair,Base excision repair
+M1_string_638,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+M1_string_646,hsa01232,,,Nucleotide metabolism
+M1_string_654,hsa04911,Organismal Systems,Endocrine system,Insulin secretion
+M1_string_657,hsa00533,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - keratan sulfate
+M1_string_696,hsa04924,Organismal Systems,Endocrine system,Renin secretion
+M1_string_701,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+M1_string_745,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+R1_cpdb_3,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+R1_cpdb_4,hsa03420,Genetic Information Processing,Replication and repair,Nucleotide excision repair
+R1_cpdb_5,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+R1_cpdb_7,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+R1_cpdb_9,hsa05220,Human Diseases,Cancer: specific types,Chronic myeloid leukemia
+R1_cpdb_10,hsa05418,Human Diseases,Cardiovascular disease,Fluid shear stress and atherosclerosis
+R1_cpdb_11,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_cpdb_13,hsa04744,Organismal Systems,Sensory system,Phototransduction
+R1_cpdb_15,hsa03450,Genetic Information Processing,Replication and repair,Non-homologous end-joining
+R1_cpdb_17,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_cpdb_19,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_cpdb_20,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+R1_cpdb_21,hsa05134,Human Diseases,Infectious disease: bacterial,Legionellosis
+R1_cpdb_23,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_cpdb_24,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_cpdb_26,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+R1_cpdb_27,hsa03410,Genetic Information Processing,Replication and repair,Base excision repair
+R1_cpdb_29,hsa00524,Metabolism,Biosynthesis of other secondary metabolites,"Neomycin, kanamycin and gentamicin biosynthesis"
+R1_cpdb_30,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_cpdb_31,hsa04390,Environmental Information Processing,Signal transduction,Hippo signaling pathway
+R1_cpdb_33,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+R1_cpdb_34,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+R1_cpdb_36,hsa04151,Environmental Information Processing,Signal transduction,PI3K-Akt signaling pathway
+R1_cpdb_37,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+R1_cpdb_38,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+R1_cpdb_41,hsa05417,Human Diseases,Cardiovascular disease,Lipid and atherosclerosis
+R1_cpdb_42,hsa04072,Environmental Information Processing,Signal transduction,Phospholipase D signaling pathway
+R1_cpdb_43,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_45,hsa05202,Human Diseases,Cancer: overview,Transcriptional misregulation in cancer
+R1_cpdb_46,hsa04140,Cellular Processes,Transport and catabolism,Autophagy - animal
+R1_cpdb_49,hsa03430,Genetic Information Processing,Replication and repair,Mismatch repair
+R1_cpdb_50,hsa00053,Metabolism,Carbohydrate metabolism,Ascorbate and aldarate metabolism
+R1_cpdb_53,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+R1_cpdb_55,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+R1_cpdb_57,hsa04115,Cellular Processes,Cell growth and death,p53 signaling pathway
+R1_cpdb_60,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_cpdb_61,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_cpdb_62,hsa05164,Human Diseases,Infectious disease: viral,Influenza A
+R1_cpdb_64,hsa04218,Cellular Processes,Cell growth and death,Cellular senescence
+R1_cpdb_65,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+R1_cpdb_66,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+R1_cpdb_67,hsa00280,Metabolism,Amino acid metabolism,"Valine, leucine and isoleucine degradation"
+R1_cpdb_68,hsa04068,Environmental Information Processing,Signal transduction,FoxO signaling pathway
+R1_cpdb_70,hsa03250,Genetic Information Processing,Information processing in viruses,Viral life cycle - HIV-1
+R1_cpdb_71,hsa05211,Human Diseases,Cancer: specific types,Renal cell carcinoma
+R1_cpdb_74,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+R1_cpdb_75,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+R1_cpdb_76,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+R1_cpdb_77,hsa04064,Environmental Information Processing,Signal transduction,NF-kappa B signaling pathway
+R1_cpdb_79,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+R1_cpdb_80,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_83,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_cpdb_85,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+R1_cpdb_86,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+R1_cpdb_87,hsa05150,Human Diseases,Infectious disease: bacterial,Staphylococcus aureus infection
+R1_cpdb_88,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_cpdb_90,hsa04137,Cellular Processes,Transport and catabolism,Mitophagy - animal
+R1_cpdb_92,hsa00531,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan degradation
+R1_cpdb_95,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_cpdb_97,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+R1_cpdb_98,hsa04640,Organismal Systems,Immune system,Hematopoietic cell lineage
+R1_cpdb_100,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+R1_cpdb_103,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+R1_cpdb_104,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+R1_cpdb_105,hsa00510,Metabolism,Glycan biosynthesis and metabolism,N-Glycan biosynthesis
+R1_cpdb_106,hsa04020,Environmental Information Processing,Signal transduction,Calcium signaling pathway
+R1_cpdb_107,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_cpdb_108,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+R1_cpdb_109,hsa05100,Human Diseases,Infectious disease: bacterial,Bacterial invasion of epithelial cells
+R1_cpdb_110,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_cpdb_111,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+R1_cpdb_112,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+R1_cpdb_113,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+R1_cpdb_114,hsa05340,Human Diseases,Immune disease,Primary immunodeficiency
+R1_cpdb_115,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+R1_cpdb_119,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+R1_cpdb_121,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_cpdb_122,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+R1_cpdb_123,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_cpdb_124,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_cpdb_129,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+R1_cpdb_130,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+R1_cpdb_131,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+R1_cpdb_132,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+R1_cpdb_133,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+R1_cpdb_134,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+R1_cpdb_135,hsa04217,Cellular Processes,Cell growth and death,Necroptosis
+R1_cpdb_137,hsa00630,Metabolism,Carbohydrate metabolism,Glyoxylate and dicarboxylate metabolism
+R1_cpdb_138,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_cpdb_139,hsa00310,Metabolism,Amino acid metabolism,Lysine degradation
+R1_cpdb_141,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_142,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+R1_cpdb_143,hsa04020,Environmental Information Processing,Signal transduction,Calcium signaling pathway
+R1_cpdb_144,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_cpdb_145,hsa04152,Environmental Information Processing,Signal transduction,AMPK signaling pathway
+R1_cpdb_146,hsa04915,Organismal Systems,Endocrine system,Estrogen signaling pathway
+R1_cpdb_147,hsa05161,Human Diseases,Infectious disease: viral,Hepatitis B
+R1_cpdb_149,hsa02010,Environmental Information Processing,Membrane transport,ABC transporters
+R1_cpdb_150,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+R1_cpdb_152,hsa00600,Metabolism,Lipid metabolism,Sphingolipid metabolism
+R1_cpdb_153,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+R1_cpdb_154,hsa04666,Organismal Systems,Immune system,Fc gamma R-mediated phagocytosis
+R1_cpdb_156,hsa04137,Cellular Processes,Transport and catabolism,Mitophagy - animal
+R1_cpdb_158,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+R1_cpdb_161,hsa04923,Organismal Systems,Endocrine system,Regulation of lipolysis in adipocytes
+R1_cpdb_163,hsa04910,Organismal Systems,Endocrine system,Insulin signaling pathway
+R1_cpdb_164,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+R1_cpdb_165,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+R1_cpdb_166,hsa04140,Cellular Processes,Transport and catabolism,Autophagy - animal
+R1_cpdb_167,hsa04714,Organismal Systems,Environmental adaptation,Thermogenesis
+R1_cpdb_170,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+R1_cpdb_173,hsa04670,Organismal Systems,Immune system,Leukocyte transendothelial migration
+R1_cpdb_174,hsa00532,Metabolism,Glycan biosynthesis and metabolism,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+R1_cpdb_175,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_176,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+R1_cpdb_177,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+R1_cpdb_178,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+R1_cpdb_179,hsa05321,Human Diseases,Immune disease,Inflammatory bowel disease
+R1_cpdb_183,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+R1_cpdb_184,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+R1_cpdb_185,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+R1_cpdb_187,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_cpdb_191,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_cpdb_193,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_cpdb_194,hsa04668,Environmental Information Processing,Signal transduction,TNF signaling pathway
+R1_cpdb_195,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_cpdb_197,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_cpdb_198,hsa05310,Human Diseases,Immune disease,Asthma
+R1_cpdb_199,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+R1_cpdb_200,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+R1_cpdb_201,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_202,hsa04640,Organismal Systems,Immune system,Hematopoietic cell lineage
+R1_cpdb_206,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_cpdb_209,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+R1_cpdb_210,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_cpdb_212,hsa05110,Human Diseases,Infectious disease: bacterial,Vibrio cholerae infection
+R1_cpdb_215,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_216,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_221,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_cpdb_227,hsa00010,Metabolism,Carbohydrate metabolism,Glycolysis / Gluconeogenesis
+R1_cpdb_229,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_cpdb_232,hsa05412,Human Diseases,Cardiovascular disease,Arrhythmogenic right ventricular cardiomyopathy
+R1_cpdb_233,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_234,hsa00515,Metabolism,Glycan biosynthesis and metabolism,Mannose type O-glycan biosynthesis
+R1_cpdb_236,hsa04137,Cellular Processes,Transport and catabolism,Mitophagy - animal
+R1_cpdb_237,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+R1_cpdb_238,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+R1_cpdb_241,hsa00051,Metabolism,Carbohydrate metabolism,Fructose and mannose metabolism
+R1_cpdb_244,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+R1_cpdb_247,hsa00100,Metabolism,Lipid metabolism,Steroid biosynthesis
+R1_cpdb_248,hsa05415,Human Diseases,Cardiovascular disease,Diabetic cardiomyopathy
+R1_cpdb_252,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+R1_cpdb_253,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_cpdb_255,hsa05321,Human Diseases,Immune disease,Inflammatory bowel disease
+R1_cpdb_261,hsa05132,Human Diseases,Infectious disease: bacterial,Salmonella infection
+R1_cpdb_262,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+R1_cpdb_264,hsa00190,Metabolism,Energy metabolism,Oxidative phosphorylation
+R1_cpdb_267,hsa04014,Environmental Information Processing,Signal transduction,Ras signaling pathway
+R1_cpdb_271,hsa04151,Environmental Information Processing,Signal transduction,PI3K-Akt signaling pathway
+R1_cpdb_272,hsa05133,Human Diseases,Infectious disease: bacterial,Pertussis
+R1_cpdb_273,hsa04974,Organismal Systems,Digestive system,Protein digestion and absorption
+R1_cpdb_276,hsa04540,Cellular Processes,Cellular community - eukaryotes,Gap junction
+R1_cpdb_277,hsa04611,Organismal Systems,Immune system,Platelet activation
+R1_cpdb_278,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_cpdb_279,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_282,hsa04721,Organismal Systems,Nervous system,Synaptic vesicle cycle
+R1_cpdb_283,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_284,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_285,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+R1_cpdb_287,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+R1_cpdb_291,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_293,hsa04530,Cellular Processes,Cellular community - eukaryotes,Tight junction
+R1_cpdb_295,hsa04730,Organismal Systems,Nervous system,Long-term depression
+R1_cpdb_296,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+R1_cpdb_297,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+R1_cpdb_299,hsa00450,Metabolism,Metabolism of other amino acids,Selenocompound metabolism
+R1_cpdb_303,hsa04964,Organismal Systems,Excretory system,Proximal tubule bicarbonate reclamation
+R1_cpdb_304,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_cpdb_305,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_cpdb_306,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_cpdb_309,hsa04714,Organismal Systems,Environmental adaptation,Thermogenesis
+R1_cpdb_316,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_cpdb_319,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_cpdb_320,hsa01040,Metabolism,Lipid metabolism,Biosynthesis of unsaturated fatty acids
+R1_cpdb_321,hsa00592,Metabolism,Lipid metabolism,alpha-Linolenic acid metabolism
+R1_cpdb_324,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+R1_cpdb_326,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+R1_cpdb_327,hsa00030,Metabolism,Carbohydrate metabolism,Pentose phosphate pathway
+R1_cpdb_329,hsa05032,Human Diseases,Substance dependence,Morphine addiction
+R1_cpdb_330,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+R1_cpdb_331,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+R1_cpdb_334,hsa03008,Genetic Information Processing,Translation,Ribosome biogenesis in eukaryotes
+R1_cpdb_339,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+R1_cpdb_340,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+R1_cpdb_345,hsa00140,Metabolism,Lipid metabolism,Steroid hormone biosynthesis
+R1_cpdb_349,hsa04924,Organismal Systems,Endocrine system,Renin secretion
+R1_cpdb_352,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+R1_cpdb_355,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_cpdb_359,hsa04721,Organismal Systems,Nervous system,Synaptic vesicle cycle
+R1_cpdb_366,hsa05416,Human Diseases,Cardiovascular disease,Viral myocarditis
+R1_cpdb_369,hsa00730,Metabolism,Metabolism of cofactors and vitamins,Thiamine metabolism
+R1_cpdb_370,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+R1_cpdb_373,hsa05320,Human Diseases,Immune disease,Autoimmune thyroid disease
+R1_humanbase_73,hsa04260,Organismal Systems,Circulatory system,Cardiac muscle contraction
+R1_humanbase_75,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_humanbase_81,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_humanbase_109,hsa04929,Organismal Systems,Endocrine system,GnRH secretion
+R1_humanbase_195,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+R1_humanbase_220,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+R1_humanbase_310,hsa04930,Human Diseases,Endocrine and metabolic disease,Type II diabetes mellitus
+R1_string_2,hsa05218,Human Diseases,Cancer: specific types,Melanoma
+R1_string_5,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+R1_string_6,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_string_8,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_string_9,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+R1_string_10,hsa04672,Organismal Systems,Immune system,Intestinal immune network for IgA production
+R1_string_11,hsa05144,Human Diseases,Infectious disease: parasitic,Malaria
+R1_string_12,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+R1_string_13,hsa05017,Human Diseases,Neurodegenerative disease,Spinocerebellar ataxia
+R1_string_14,hsa05213,Human Diseases,Cancer: specific types,Endometrial cancer
+R1_string_15,hsa04137,Cellular Processes,Transport and catabolism,Mitophagy - animal
+R1_string_16,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+R1_string_17,hsa03050,Genetic Information Processing,"Folding, sorting and degradation",Proteasome
+R1_string_18,hsa04660,Organismal Systems,Immune system,T cell receptor signaling pathway
+R1_string_19,hsa04064,Environmental Information Processing,Signal transduction,NF-kappa B signaling pathway
+R1_string_24,hsa04725,Organismal Systems,Nervous system,Cholinergic synapse
+R1_string_28,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_string_30,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+R1_string_31,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_string_32,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+R1_string_33,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_string_35,hsa04350,Environmental Information Processing,Signal transduction,TGF-beta signaling pathway
+R1_string_36,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_string_37,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_39,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_string_41,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+R1_string_42,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_string_45,hsa03250,Genetic Information Processing,Information processing in viruses,Viral life cycle - HIV-1
+R1_string_49,hsa03020,Genetic Information Processing,Transcription,RNA polymerase
+R1_string_51,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+R1_string_53,hsa04510,Cellular Processes,Cellular community - eukaryotes,Focal adhesion
+R1_string_54,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+R1_string_56,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_string_57,hsa04514,Environmental Information Processing,Signaling molecules and interaction,Cell adhesion molecules
+R1_string_58,hsa00785,Metabolism,Metabolism of cofactors and vitamins,Lipoic acid metabolism
+R1_string_62,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_64,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+R1_string_66,hsa05410,Human Diseases,Cardiovascular disease,Hypertrophic cardiomyopathy
+R1_string_67,hsa04721,Organismal Systems,Nervous system,Synaptic vesicle cycle
+R1_string_70,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_string_71,hsa05216,Human Diseases,Cancer: specific types,Thyroid cancer
+R1_string_73,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+R1_string_74,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_75,hsa04130,Genetic Information Processing,"Folding, sorting and degradation",SNARE interactions in vesicular transport
+R1_string_77,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_string_79,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_string_80,hsa05219,Human Diseases,Cancer: specific types,Bladder cancer
+R1_string_81,hsa04371,Environmental Information Processing,Signal transduction,Apelin signaling pathway
+R1_string_82,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+R1_string_85,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+R1_string_86,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+R1_string_87,hsa03083,Genetic Information Processing,Chromosome,Polycomb repressive complex
+R1_string_88,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+R1_string_91,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_string_92,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_string_94,hsa03082,Genetic Information Processing,Chromosome,ATP-dependent chromatin remodeling
+R1_string_95,hsa04210,Cellular Processes,Cell growth and death,Apoptosis
+R1_string_96,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_string_99,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+R1_string_100,hsa04142,Cellular Processes,Transport and catabolism,Lysosome
+R1_string_101,hsa03030,Genetic Information Processing,Replication and repair,DNA replication
+R1_string_102,hsa04014,Environmental Information Processing,Signal transduction,Ras signaling pathway
+R1_string_103,hsa04966,Organismal Systems,Excretory system,Collecting duct acid secretion
+R1_string_104,hsa00563,Metabolism,Glycan biosynthesis and metabolism,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+R1_string_106,hsa03410,Genetic Information Processing,Replication and repair,Base excision repair
+R1_string_107,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_string_109,hsa04218,Cellular Processes,Cell growth and death,Cellular senescence
+R1_string_111,hsa04215,Cellular Processes,Cell growth and death,Apoptosis - multiple species
+R1_string_113,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_string_116,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_119,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_string_120,hsa04390,Environmental Information Processing,Signal transduction,Hippo signaling pathway
+R1_string_121,hsa05135,Human Diseases,Infectious disease: bacterial,Yersinia infection
+R1_string_122,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_123,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_string_124,hsa04621,Organismal Systems,Immune system,NOD-like receptor signaling pathway
+R1_string_125,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+R1_string_126,hsa04148,Cellular Processes,Transport and catabolism,Efferocytosis
+R1_string_130,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+R1_string_131,hsa04064,Environmental Information Processing,Signal transduction,NF-kappa B signaling pathway
+R1_string_132,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_134,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_string_135,hsa03015,Genetic Information Processing,Translation,mRNA surveillance pathway
+R1_string_137,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+R1_string_139,hsa05340,Human Diseases,Immune disease,Primary immunodeficiency
+R1_string_141,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+R1_string_143,hsa05321,Human Diseases,Immune disease,Inflammatory bowel disease
+R1_string_144,hsa04662,Organismal Systems,Immune system,B cell receptor signaling pathway
+R1_string_145,hsa04930,Human Diseases,Endocrine and metabolic disease,Type II diabetes mellitus
+R1_string_146,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+R1_string_147,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+R1_string_150,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+R1_string_151,hsa03060,Genetic Information Processing,"Folding, sorting and degradation",Protein export
+R1_string_152,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_154,hsa05217,Human Diseases,Cancer: specific types,Basal cell carcinoma
+R1_string_155,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+R1_string_156,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+R1_string_159,hsa04910,Organismal Systems,Endocrine system,Insulin signaling pathway
+R1_string_161,hsa03022,Genetic Information Processing,Transcription,Basal transcription factors
+R1_string_162,hsa04260,Organismal Systems,Circulatory system,Cardiac muscle contraction
+R1_string_163,hsa04062,Organismal Systems,Immune system,Chemokine signaling pathway
+R1_string_167,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+R1_string_168,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_169,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_string_170,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+R1_string_171,hsa00513,Metabolism,Glycan biosynthesis and metabolism,Various types of N-glycan biosynthesis
+R1_string_173,hsa05100,Human Diseases,Infectious disease: bacterial,Bacterial invasion of epithelial cells
+R1_string_176,hsa04630,Environmental Information Processing,Signal transduction,JAK-STAT signaling pathway
+R1_string_177,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_string_179,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_string_180,hsa04710,Organismal Systems,Environmental adaptation,Circadian rhythm
+R1_string_182,hsa03040,Genetic Information Processing,Transcription,Spliceosome
+R1_string_183,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+R1_string_184,hsa03460,Genetic Information Processing,Replication and repair,Fanconi anemia pathway
+R1_string_185,hsa04144,Cellular Processes,Transport and catabolism,Endocytosis
+R1_string_188,hsa04012,Environmental Information Processing,Signal transduction,ErbB signaling pathway
+R1_string_190,hsa03013,Genetic Information Processing,Translation,Nucleocytoplasmic transport
+R1_string_191,hsa03450,Genetic Information Processing,Replication and repair,Non-homologous end-joining
+R1_string_193,hsa04150,Environmental Information Processing,Signal transduction,mTOR signaling pathway
+R1_string_194,hsa04814,Cellular Processes,Cell motility,Motor proteins
+R1_string_195,hsa04979,Organismal Systems,Digestive system,Cholesterol metabolism
+R1_string_196,hsa04960,Organismal Systems,Excretory system,Aldosterone-regulated sodium reabsorption
+R1_string_197,hsa04620,Organismal Systems,Immune system,Toll-like receptor signaling pathway
+R1_string_198,hsa04060,Environmental Information Processing,Signaling molecules and interaction,Cytokine-cytokine receptor interaction
+R1_string_200,hsa04022,Environmental Information Processing,Signal transduction,cGMP-PKG signaling pathway
+R1_string_201,hsa04512,Environmental Information Processing,Signaling molecules and interaction,ECM-receptor interaction
+R1_string_202,hsa05033,Human Diseases,Substance dependence,Nicotine addiction
+R1_string_204,hsa04022,Environmental Information Processing,Signal transduction,cGMP-PKG signaling pathway
+R1_string_211,hsa04650,Organismal Systems,Immune system,Natural killer cell mediated cytotoxicity
+R1_string_214,hsa04010,Environmental Information Processing,Signal transduction,MAPK signaling pathway
+R1_string_215,hsa04146,Cellular Processes,Transport and catabolism,Peroxisome
+R1_string_217,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_string_218,hsa05211,Human Diseases,Cancer: specific types,Renal cell carcinoma
+R1_string_220,hsa04270,Organismal Systems,Circulatory system,Vascular smooth muscle contraction
+R1_string_222,hsa05416,Human Diseases,Cardiovascular disease,Viral myocarditis
+R1_string_224,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_226,hsa05161,Human Diseases,Infectious disease: viral,Hepatitis B
+R1_string_227,hsa04380,Organismal Systems,Development and regeneration,Osteoclast differentiation
+R1_string_229,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+R1_string_230,hsa04657,Organismal Systems,Immune system,IL-17 signaling pathway
+R1_string_235,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_242,hsa04610,Organismal Systems,Immune system,Complement and coagulation cascades
+R1_string_244,hsa04612,Organismal Systems,Immune system,Antigen processing and presentation
+R1_string_247,hsa04727,Organismal Systems,Nervous system,GABAergic synapse
+R1_string_250,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+R1_string_254,hsa04024,Environmental Information Processing,Signal transduction,cAMP signaling pathway
+R1_string_257,hsa00480,Metabolism,Metabolism of other amino acids,Glutathione metabolism
+R1_string_260,hsa04520,Cellular Processes,Cellular community - eukaryotes,Adherens junction
+R1_string_261,hsa03018,Genetic Information Processing,"Folding, sorting and degradation",RNA degradation
+R1_string_265,hsa03320,Organismal Systems,Endocrine system,PPAR signaling pathway
+R1_string_266,hsa04722,Organismal Systems,Nervous system,Neurotrophin signaling pathway
+R1_string_273,hsa04744,Organismal Systems,Sensory system,Phototransduction
+R1_string_274,hsa05340,Human Diseases,Immune disease,Primary immunodeficiency
+R1_string_278,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_string_281,hsa04360,Organismal Systems,Development and regeneration,Axon guidance
+R1_string_282,hsa05213,Human Diseases,Cancer: specific types,Endometrial cancer
+R1_string_283,hsa04330,Environmental Information Processing,Signal transduction,Notch signaling pathway
+R1_string_285,hsa04962,Organismal Systems,Excretory system,Vasopressin-regulated water reabsorption
+R1_string_289,hsa03440,Genetic Information Processing,Replication and repair,Homologous recombination
+R1_string_290,hsa04614,Organismal Systems,Endocrine system,Renin-angiotensin system
+R1_string_292,hsa05332,Human Diseases,Immune disease,Graft-versus-host disease
+R1_string_295,hsa04071,Environmental Information Processing,Signal transduction,Sphingolipid signaling pathway
+R1_string_298,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+R1_string_300,hsa05012,Human Diseases,Neurodegenerative disease,Parkinson disease
+R1_string_303,hsa04810,Cellular Processes,Cell motility,Regulation of actin cytoskeleton
+R1_string_311,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_string_313,hsa04110,Cellular Processes,Cell growth and death,Cell cycle
+R1_string_317,hsa04622,Organismal Systems,Immune system,RIG-I-like receptor signaling pathway
+R1_string_320,hsa05211,Human Diseases,Cancer: specific types,Renal cell carcinoma
+R1_string_324,hsa04340,Environmental Information Processing,Signal transduction,Hedgehog signaling pathway
+R1_string_325,hsa00970,Genetic Information Processing,Translation,Aminoacyl-tRNA biosynthesis
+R1_string_326,hsa04141,Genetic Information Processing,"Folding, sorting and degradation",Protein processing in endoplasmic reticulum
+R1_string_328,hsa04724,Organismal Systems,Nervous system,Glutamatergic synapse
+R1_string_331,hsa04510,Cellular Processes,Cellular community - eukaryotes,Focal adhesion
+R1_string_335,hsa00020,Metabolism,Carbohydrate metabolism,Citrate cycle (TCA cycle)
+R1_string_341,hsa01521,Human Diseases,Drug resistance: antineoplastic,EGFR tyrosine kinase inhibitor resistance
+R1_string_349,hsa04136,Cellular Processes,Transport and catabolism,Autophagy - other
+R1_string_350,hsa04310,Environmental Information Processing,Signal transduction,Wnt signaling pathway
+R1_string_357,hsa04080,Environmental Information Processing,Signaling molecules and interaction,Neuroactive ligand-receptor interaction
+R1_string_362,hsa05133,Human Diseases,Infectious disease: bacterial,Pertussis
+R1_string_363,hsa05322,Human Diseases,Immune disease,Systemic lupus erythematosus
+R1_string_364,hsa04922,Organismal Systems,Endocrine system,Glucagon signaling pathway
+R1_string_365,hsa03420,Genetic Information Processing,Replication and repair,Nucleotide excision repair
+R1_string_369,hsa04928,Organismal Systems,Endocrine system,"Parathyroid hormone synthesis, secretion and action"
+R1_string_373,hsa04061,Environmental Information Processing,Signaling molecules and interaction,Viral protein interaction with cytokine and cytokine receptor
+R1_string_379,hsa04964,Organismal Systems,Excretory system,Proximal tubule bicarbonate reclamation
+R1_string_380,hsa04024,Environmental Information Processing,Signal transduction,cAMP signaling pathway
+R1_string_384,hsa04380,Organismal Systems,Development and regeneration,Osteoclast differentiation
+R1_string_386,hsa04923,Organismal Systems,Endocrine system,Regulation of lipolysis in adipocytes
+R1_string_388,hsa04120,Genetic Information Processing,"Folding, sorting and degradation",Ubiquitin mediated proteolysis
+R1_string_394,hsa04727,Organismal Systems,Nervous system,GABAergic synapse
+R1_string_403,hsa04672,Organismal Systems,Immune system,Intestinal immune network for IgA production
+R1_string_411,hsa03010,Genetic Information Processing,Translation,Ribosome
+R1_string_414,hsa05332,Human Diseases,Immune disease,Graft-versus-host disease
+R1_string_417,hsa04920,Organismal Systems,Endocrine system,Adipocytokine signaling pathway
+R1_string_419,hsa04392,Environmental Information Processing,Signal transduction,Hippo signaling pathway - multiple species
+R1_string_434,hsa00640,Metabolism,Carbohydrate metabolism,Propanoate metabolism
