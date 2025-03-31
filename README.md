@@ -13,7 +13,7 @@ This repository provides Python scripts to automate the retrieval and organizati
 The output from each script is saved as a CSV file, with each file containing:
 - An entity or module identifier.
 - A pathway or term identifier.
-- A series of annotation levels that capture the hierarchy, starting from a broad `0_Level_Pathway` and progressing into more detailed levels.
+- A series of annotation levels that capture the hierarchy, starting from a broad `0_Level_Pathway` (representative of the broadest biological category the annotation belongs to), and progressing into more detailed levels (Level 1 and onwards).
 
 ## Annotation Levels
 
